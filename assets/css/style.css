@@ -1,0 +1,12 @@
+.light-mode{
+	background: rgb(0, 174, 255);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #fff;
+	padding: 30px;
+}
+.dark-mode{
+	background: rgba(22, 22, 22, 0.962);
+	color: rgb(255, 166, 0);
+	padding: 30px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
